@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominos", "dominos\dominos.csproj", "{D039E1AA-3A3E-475E-8655-43604ACDDCEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominos-test", "dominos-test\dominos-test.csproj", "{B8BD9B13-2AB8-40CE-AE63-C2AFC38A7C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D039E1AA-3A3E-475E-8655-43604ACDDCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D039E1AA-3A3E-475E-8655-43604ACDDCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D039E1AA-3A3E-475E-8655-43604ACDDCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D039E1AA-3A3E-475E-8655-43604ACDDCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8BD9B13-2AB8-40CE-AE63-C2AFC38A7C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BD9B13-2AB8-40CE-AE63-C2AFC38A7C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BD9B13-2AB8-40CE-AE63-C2AFC38A7C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BD9B13-2AB8-40CE-AE63-C2AFC38A7C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A61A8E07-9BA9-47D3-A381-15A01B9B49FE}
+	EndGlobalSection
+EndGlobal
