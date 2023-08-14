@@ -44,7 +44,7 @@ namespace dominos_test
         }
 
         [TestMethod]
-        public void Assert_DominoReturnsTrue()
+        public void Assert_ValidDominoReturnsTrue()
         {
             ITrain train = new Train();            
 
@@ -60,7 +60,7 @@ namespace dominos_test
         }
 
         [TestMethod]
-        public void Assert_ValidMove()
+        public void Assert_ValidMoveReturnsTrue()
         {
             ITrain train = new Train();
 
@@ -68,7 +68,7 @@ namespace dominos_test
         }
 
         [TestMethod]
-        public void Assert_InValidMove()
+        public void Assert_InValidMoveReturnsFalse()
         {
             ITrain train = new Train();
 
